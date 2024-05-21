@@ -1,0 +1,446 @@
+{
+    "topic_name": "AI Intro for Coders",
+    "topic_sequence": 1,
+    "topic_tag": "Basic",
+    "topic_uri_key": "ai_intro_for_coders",
+    "language_id": 1004,
+    "subtopics": [
+        {
+            "subtopic_name": "What is Generative AI?",
+            "subtopic_uri_key": "what_is_generative_ai_",
+            "subtopic_sequence": 1,
+            "subtopic_type": "A",
+            "unlock_type": 0,
+            "time_to_complete": 300,
+            "screens_content": [
+                {
+                    "type": "A",
+                    "sequence": 1,
+                    "uri_key": "what_is_generative_ai__1",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "Generative AI in Coding"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "An imaginative sketch of a robot painting a canvas, transitioning into lines of code."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "Welcome to the transformative realm of Generative AI, an innovative frontier where artificial intelligence crafts not only art and music but also writes functional code.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "This exciting journey uncovers how AI is no longer just an auxiliary tool but a core part of the creative process in software development. The age of Generative AI invites us to reimagine the capabilities of coding, making the future not just a time to look forward to but a reality to craft today.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 2,
+                    "uri_key": "what_is_generative_ai__2",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "Generative AI"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "A vibrant depiction of AI-assisted coding environments, showing AI suggesting code improvements and new functions."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "Generative AI acts behind the scenes, significantly amplifying coding efficiency and creativity.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "From offering code suggestions that perfectly align with the developer's intent to generating whole blocks of code or algorithms from simple prompts, Generative AI is revolutionizing how we develop software. It's not just making coding faster; it's making it smarter.",
+                            "highlight": [
+                                {
+                                    "highlight_type": "HTEXTMAIN",
+                                    "key_title": [
+                                        "code suggestions"
+                                    ]
+                                },
+                                {
+                                    "highlight_type": "HTEXTMAIN",
+                                    "key_title": [
+                                        "generating whole blocks of code or algorithms"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 4,
+                            "data": "Dive into the world where AI and human creativity meet, leading to unprecedented innovation.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 3,
+                    "uri_key": "what_is_generative_ai__3",
+                    "info_content": []
+                },
+                {
+                    "type": "A",
+                    "sequence": 4,
+                    "uri_key": "what_is_generative_ai__4",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "Empowering Developers with AI"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "Illustrations of AI-integrated development environments, with a focus on real-time coding assistance."
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 5,
+                    "uri_key": "what_is_generative_ai__5",
+                    "info_content": [
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 0,
+                            "data": "Generative AI can generate test cases for your code automatically.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 1,
+                            "data": "True",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "False",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 6,
+                    "uri_key": "what_is_generative_ai__6",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "Impact of Generative AI on Coding"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "Case studies highlighting success stories of Generative AI in software development projects."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "Generative AI is not just about the theoretical potential; it's making tangible impacts across the tech industry.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "From small startups to tech giants, companies are leveraging Generative AI to streamline development processes, innovate on product features, and solve complex problems more efficiently than ever before.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 4,
+                            "data": "By automating the creation of code and aiding in debugging efforts, Generative AI is proving to be an invaluable ally in the coder\u2019s toolkit.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 7,
+                    "uri_key": "what_is_generative_ai__7",
+                    "info_content": []
+                },
+                {
+                    "type": "A",
+                    "sequence": 8,
+                    "uri_key": "what_is_generative_ai__8",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "A New Era of Software Development"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "A futuristic vision of collaborative coding sessions between developers and AI, highlighting the synergistic potential."
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 9,
+                    "uri_key": "what_is_generative_ai__9",
+                    "info_content": [
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 0,
+                            "data": "AI-generated code is already powering critical infrastructure systems.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 1,
+                            "data": "True",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "False",
+                            "highlight": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "subtopic_name": "AI and ML - 101",
+            "subtopic_uri_key": "ai_and_ml_101",
+            "subtopic_sequence": 2,
+            "subtopic_type": "A",
+            "unlock_type": 0,
+            "time_to_complete": 300,
+            "screens_content": [
+                {
+                    "type": "A",
+                    "sequence": 1,
+                    "uri_key": "ai_and_ml_101_1",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "AI and Machine Learning"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "Robots learning to cook from a recipe book."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "Imagine if your computer could learn how to cook just by reading recipes, or predict the weather by simply analyzing past patterns. That's not a scene from a sci-fi movie, it's what AI and machine learning (ML) are doing today.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "From recommending your next favorite song to driving autonomous cars, AI and ML have turned fiction into reality.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 2,
+                    "uri_key": "ai_and_ml_101_2",
+                    "info_content": [],
+                    "interaction_content": [
+                        {
+                            "type": "MCQSS",
+                            "option_type": "TXT",
+                            "question": [
+                                {
+                                    "question_type": "MULTIHIGHLIGHTTEXT",
+                                    "info_text": "What is at the heart of AI?",
+                                    "highlight": []
+                                }
+                            ],
+                            "option": [
+                                "Robots with feelings",
+                                "Computers that learn from data",
+                                "Sci-fi novels",
+                                "A magic spell"
+                            ],
+                            "answer_index": 1,
+                            "correct_explanation": "Spot on! It's all about computers getting smarter by learning from data, just like you learn from reading books (or code).",
+                            "incorrect_explanation": "That's a creative guess, but the correct answer is actually about computers that improve their performance by learning from data. Let's give it another try!"
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 3,
+                    "uri_key": "ai_and_ml_101_3",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "The Brain Behind the Machine"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "A cartoon brain inside a computer, wearing glasses and reading a book."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "At the heart of AI is machine learning \u2013 think of it as teaching a computer to think and learn like humans. But instead of using textbooks, it learns from data. Tons and tons of data. The more it 'reads,\u2019 the smarter it gets.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "So, when you marvel at how your coding buddy (an AI) suggests the perfect block of code, remember there's a 'brain' learning from every line of code ever written.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 4,
+                    "uri_key": "ai_and_ml_101_4",
+                    "info_content": [],
+                    "interaction_content": [
+                        {
+                            "type": "MCQSS",
+                            "option_type": "TXT",
+                            "question": [
+                                {
+                                    "question_type": "MULTIHIGHLIGHTTEXT",
+                                    "info_text": "What is necessary to create a machine learning model?",
+                                    "highlight": []
+                                }
+                            ],
+                            "option": [
+                                "A magic wand",
+                                "Lots and lots of data",
+                                "A chef\u2019s hat",
+                                "Wishing upon a star"
+                            ],
+                            "answer_index": 1,
+                            "correct_explanation": "Correct! In the world of ML, data is the key ingredient. Without it, your model is like a sandwich without bread.",
+                            "incorrect_explanation": "That's a creative thought, but unfortunately, the real secret ingredient is data \u2014 lots of it. Give it another try!"
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 5,
+                    "uri_key": "ai_and_ml_101_5",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "World Magic Tricks"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "An AI assistant magically fixing bugs in a code."
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 6,
+                    "uri_key": "ai_and_ml_101_6",
+                    "info_content": [],
+                    "interaction_content": [
+                        {
+                            "type": "MCQSS",
+                            "option_type": "TXT",
+                            "question": [
+                                {
+                                    "question_type": "MULTIHIGHLIGHTTEXT",
+                                    "info_text": "How can AI help with bug detection in programming?",
+                                    "highlight": []
+                                }
+                            ],
+                            "option": [
+                                "By casting a magic spell",
+                                "By analyzing thousands of similar problems",
+                                "By complaining to its developers",
+                                "Ignoring them and hoping they\u2019ll go away"
+                            ],
+                            "answer_index": -1,
+                            "correct_explanation": "Exactly! AI is like a diligent student that learns from every mistake, or in this case, every bug that has ever existed.",
+                            "incorrect_explanation": "Not exactly. AI's strength lies in analyzing data, not in magical fixes or wishful thinking. Try a different choice!"
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 7,
+                    "uri_key": "ai_and_ml_101_7",
+                    "info_content": [
+                        {
+                            "type": "HTEXTHEADER",
+                            "display_order": 0,
+                            "data": "ML Models: The Secret Recipe"
+                        },
+                        {
+                            "type": "IMG",
+                            "display_order": 1,
+                            "url": "A chef (AI) mixing various ingredients (data) to create a new dish (model)."
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 2,
+                            "data": "Creating a machine learning model is akin to experimenting with recipes.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 3,
+                            "data": "You mix different ingredients (data) and seasonings (algorithms) to cook up a model that tastes just right.",
+                            "highlight": []
+                        },
+                        {
+                            "type": "MULTIHIGHLIGHTTEXT",
+                            "display_order": 4,
+                            "data": "Sometimes it\u2019s a hit on the first try; other times, you need to adjust the ingredients. But once you get the recipe right, you can dish out predictions, recommendations, and decisions faster than a chef at a Michelin-starred restaurant.",
+                            "highlight": []
+                        }
+                    ]
+                },
+                {
+                    "type": "A",
+                    "sequence": 8,
+                    "uri_key": "ai_and_ml_101_8",
+                    "info_content": []
+                }
+            ]
+        },
+        {
+            "subtopic_name": "Recap",
+            "subtopic_uri_key": "recap",
+            "subtopic_sequence": 3,
+            "subtopic_type": "A",
+            "unlock_type": 0,
+            "time_to_complete": 300,
+            "screens_content": []
+        }
+    ]
+}
